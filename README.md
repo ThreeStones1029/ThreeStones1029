@@ -14,7 +14,7 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Python", "C++", "pytorch", "paddle", "tensorflow"],
-    askMeAbout: ["深度学习", "计算机视觉", "CT分割", "X线片检测"],
+    Research Direction: ["Deep learning", "计算机视觉", "CT分割", "X线片检测"],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
@@ -26,8 +26,7 @@ const anmol = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Spinal intraoperative X-ray examination",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
