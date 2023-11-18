@@ -7,8 +7,7 @@
 </em></p>
 
 ![个人博客](https://threestones1029.github.io/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![CSDN](https://blog.csdn.net/SL1029_?spm=1010.2135.3001.5343)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
