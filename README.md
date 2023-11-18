@@ -13,8 +13,8 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Python", "C++", "pytorch", "paddle", "tensorflow"],
+    askMeAbout: ["深度学习", "计算机视觉", "CT分割", "X线片检测"],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
