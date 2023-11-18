@@ -6,3 +6,5 @@
 
 [个人博客](https://threestones1029.github.io/)
 [CSDN](https://blog.csdn.net/SL1029_?spm=1010.2135.3001.5343)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
