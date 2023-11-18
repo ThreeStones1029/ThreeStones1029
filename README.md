@@ -8,7 +8,6 @@
 
 ![个人博客](https://threestones1029.github.io/)
 ![CSDN](https://blog.csdn.net/SL1029_?spm=1010.2135.3001.5343)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
