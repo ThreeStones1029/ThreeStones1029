@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[个人博客](https://threestones1029.github.io/)
+[Personal Blog](https://threestones1029.github.io/)
 [CSDN](https://blog.csdn.net/SL1029_?spm=1010.2135.3001.5343)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeStones1029&show_icons=true&theme=tokyonight)
